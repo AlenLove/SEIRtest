@@ -1,0 +1,8 @@
+# Default NAMESPACE created by R
+# Remove the previous line if you edit this file
+
+# Export all names
+exportPattern(".")
+import("CMplot", "StepReg", "RcppZiggurat", "Rcpp", "Rfast","SIS","l0ara","lars","VIF","earth","ncvreg","BeSS")
+importFrom("utils", "memory.limit", "memory.size", "write.csv")
+importFrom("stats", "coef", "cor", "pnorm", "sd","cov","as.dist","cov2cor","hclust","cutree")
