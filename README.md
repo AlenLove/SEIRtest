@@ -1,6 +1,6 @@
 # SEIR ![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)
 
-## A [S](https://)elector,-[E](https://)mbedded [I](https://)terative method for Genome-Wide Association Study
+## [S](https://)elector,-[E](https://)mbedded [I](https://)terative [R](https://)Regression method for Genome-Wide Association Study
 
 ## SEIR: Selector-Embedded Iterative Regression
    A fast and extremely powerful R package for GWAS
