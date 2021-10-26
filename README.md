@@ -1,6 +1,6 @@
 # SEIR ![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)
 
-## A [M](https://)emory-efficient, [V](https://)isualization-enhanced, and [P](https://)arallel-accelerated Tool for Genome-Wide Association Study
+## A [S](https://)elector,-[E](https://)mbedded [I](https://)terative method for Genome-Wide Association Study
 
 ## SEIR: Selector-Embedded Iterative Regression
    A fast and extremely powerful R package for GWAS
