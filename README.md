@@ -2,6 +2,12 @@
 
 ## [S](https://)elector-[E](https://)mbedded [I](https://)terative [R](https://)egression method for Genome-Wide Association Study
 
+<p align="center">
+<a href="https://github.com/AlenLove/SEIRtest/blob/master/results/S%20E%20I%20R%20logo.png">
+<img src="results/S%20E%20I%20R%20logo.png" height="260px" width="360px">
+</a>
+
+</p>
 ## SEIR: Selector-Embedded Iterative Regression
    A fast and extremely powerful R package for GWAS
   
