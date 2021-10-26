@@ -1,4 +1,4 @@
-# SEIR [![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)
+# SEIR ![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)
 
 ## A [M](https://)emory-efficient, [V](https://)isualization-enhanced, and [P](https://)arallel-accelerated Tool for Genome-Wide Association Study
 
