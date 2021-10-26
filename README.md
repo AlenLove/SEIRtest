@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/AlenLove/SEIRtest/blob/master/results/SEIRlogo.png">
-<img src="results/SEIRlogo.png",height="260px">
+<img src="results/SEIRlogo.png",height="360px" width="460px">
 </a>
 
 </p>
