@@ -3,8 +3,8 @@
 ## [S](https://)elector-[E](https://)mbedded [I](https://)terative [R](https://)egression method for Genome-Wide Association Study
 
 <p align="center">
-<a href="https://github.com/AlenLove/SEIRtest/blob/master/results/SEIRlogo.png">
-<img src="results/SEIRlogo.png" height="360px" width="460px">
+<a href="https://github.com/AlenLove/SEIRtest/blob/master/results/SEIRlogo2.png">
+<img src="results/SEIRlogo2.png" height="260px" width="360px">
 </a>
 
 </p>
